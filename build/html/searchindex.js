@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["helo","index"],envversion:52,filenames:["helo.rst","index.rst"],objects:{},objnames:{},objtypes:{},terms:{content:[],hello:[],index:1,maxdepth:[],modul:1,page:1,search:1,toctre:[]},titles:["hello, world","Welcome to readdocs-test\u2019s documentation!"],titleterms:{document:1,hello:0,indic:1,readdoc:1,tabl:1,test:1,welcom:1,world:0}})
